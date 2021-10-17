@@ -327,6 +327,8 @@ a:hover {
 
 #bloc-5-cta h2 {
 	color: black;
+	font-size: 15px;
+    font-weight: 700;
 }
 
 #bloc-6 p {
@@ -842,6 +844,7 @@ h4 {
 .btn-atomic-tangerine {
 	background: #f3976c;
 	color: #ffffff !important;
+	margin: 0 50px;
 }
 
 .btn-atomic-tangerine:hover {
