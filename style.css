@@ -351,6 +351,12 @@ a:hover {
 	font-size: 12px;
 }
 
+q {
+	font-size: 20px;
+	font-weight: 500;
+	font-style: italic;
+}
+
 .col-sm-12 p {
 	color: black;
 }
